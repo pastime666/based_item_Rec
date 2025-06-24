@@ -60,8 +60,8 @@ if __name__ == "__main__":
     # 示例商品文本
     #item_info = "这是一款适合夏季穿着的简约风格男士T恤，采用高透气纯棉面料，提供多种颜色选择，适合日常通勤或休闲搭配。"
 
-    # 你的 DeepSeek API Key
-    api_key = "sk-fe41571d8d124dadb223bb643d1329e6"
+    # 输入 DeepSeek API Key
+    api_key = ""
 
     #result = generate_item_metadata_with_deepseek(item_info, api_key)
     #print(result)
